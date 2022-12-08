@@ -1,4 +1,5 @@
 import sys
+import sys
 
 rpsGuide = open('input.txt');
 
